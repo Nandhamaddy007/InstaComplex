@@ -1,0 +1,6 @@
+{
+    "/api": {
+        "target": "https://learnanimation001.000webhostapp.com/",
+        "secure": false
+    }
+}
